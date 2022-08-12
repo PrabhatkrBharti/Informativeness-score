@@ -1,8 +1,5 @@
-# Review_Informativeness
-Gold-standard Informativeness Score Formula for Annotated Reviews <br />
-
-Authors: Prabhat Kumar Bharti,  Priyanshu Patra <br />
-Affiliation: Indian Institute of Technology (IIT) Patna, India <br />
+# <div align="center"> A Method for Automatically Estimating the Informativeness of Peer Reviews</div>
+This repository contains dataset and code of the "PEERRec: An AI-based approach to Automatically Generate Recommendations and Predict Decisions in Peer Review" Authors: Prabhat Kumar Bharti, Tirthankar Ghoshal, Mayank Agrawal, Asif Ekbal, Affiliation: Indian Institute of Technology, Patna, India
 
 
 ------
