@@ -7,7 +7,7 @@ This repository contains dataset and code of the "A Method for Automatically Est
 ### Folders in main repository:
 
 - **[annotated_reviews_dataset](https://github.com/pripat-2002/Review_Informativeness/tree/main/annotated_reviews_dataset) :** <br />
-    - contains the [Annotated_Review_18 zip file](https://github.com/pripat-2002/Review_Informativeness/blob/main/annotated_reviews_dataset/Annotated_Review_18-20220806T163727Z-001.zip), which is a dataset of text files containing 1323 annotated reviews from the ICLR 2018 Conference, that was used as a Baseline reference for making the Gold-standard Informativeness Score Formula.
+    - contains the [Annotated_Review_18 zip file](https://github.com/pripat-2002/Review_Informativeness/blob/main/annotated_reviews_dataset/Annotated_Review_18-20220806T163727Z-001.zip), which is a dataset of text files containing 1323 annotated reviews from the ICLR 2018 Conference, that was used for making the Gold-standard Informativeness Score Formula.
     - contains the [reviews_csv csv file](https://github.com/pripat-2002/Review_Informativeness/blob/main/annotated_reviews_dataset/reviews_csv.csv), which is a dataset containing the paper meta decision, review decision and confidence scores of the ICLR 2018 reviews used; included in case of use in future work.
     - contains the [NIPS_2018_ann zip file](https://github.com/pripat-2002/Review_Informativeness/blob/main/annotated_reviews_dataset/NIPS_2018_ann-20220806T163915Z-001.zip), which is a dataset of text files containing 15 annotated reviews from the NIPS 2018 Conference, that was used for the Qualitative Analysis of our Gold-standard Informativeness Score Formula.<br />
   
